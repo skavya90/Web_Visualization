@@ -1,0 +1,45 @@
+body{
+    background: grey;
+}
+
+.navbar-brand {
+    color: white;
+    background-color: rgb(93, 93, 230);
+    
+}
+
+
+.container {
+    
+    padding: 0px;
+    padding-left: 5px;
+    margin: auto;
+}
+
+#first {
+    background-color: whitesmoke;
+    width: 250px;
+    float: left;
+}
+
+#second {
+    background-color: whitesmoke;
+    width: 120px;
+    float: right;
+}
+
+#clear {
+    clear : both;
+}
+h1 {
+    font-size: 30px;
+
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.text {
+    float: right;
+}
